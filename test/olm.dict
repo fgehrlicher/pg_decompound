@@ -1,0 +1,8 @@
+# surface<TAB>lexeme. Uppercase lexemes make it obvious in test output which
+# dictionary a lexeme came from.
+haus	HAUS
+hausboot	HAUSBOOT
+boot	BOOT
+hafen	HAFEN
+hausboots	HAUSBOOTS
+steg	STEG

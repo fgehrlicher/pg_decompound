@@ -1,0 +1,24 @@
+# Constituents commonly found in German technical documentation.
+# Plain word list; tools/build-wordlist.sh turns it into the TSV the
+# extension loads, mapping each surface form to its stemmed lexeme.
+administration
+anleitung
+bedienung
+benutzer
+datei
+handbuch
+konfiguration
+liste
+log
+management
+meldung
+netzwerk
+prüfsumme
+schnittstelle
+sicherheit
+software
+stufe
+summe
+system
+verzeichnis
+zulassung
