@@ -1,0 +1,12 @@
+*.o
+*.so
+*.dylib
+*.bc
+/results/
+/test/results/
+/test/*.diffs
+/test/*.out
+!/test/expected/*.out
+/.direnv/
+result
+result-*
