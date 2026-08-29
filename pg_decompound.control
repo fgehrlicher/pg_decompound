@@ -1,0 +1,4 @@
+comment = 'Dictionary-based compound-word splitting for full-text search'
+default_version = '1.0'
+module_pathname = '$libdir/pg_decompound'
+relocatable = true
